@@ -33,7 +33,7 @@ Baekjoon/
 | 42577 | 프로그래머스 | 전화번호 목록 | [🔗 코드 보기](./Programmers/42577/main.cpp) |
 | 42748 | 프로그래머스 | K번째수 | [🔗 코드 보기](./Programmers/42748/main.cpp) |
 | 12906 | 프로그래머스 | 같은 숫자는 싫어 | [🔗 코드 보기](./Programmers/12906/main.cpp) |
-
+| 42746 | 프로그래머스 | 가장 큰 수 | [🔗 코드 보기](./Programmers/42746/main.cpp) |
 
 <!--
 | 0 | 프로그래머스 | 제목 | [🔗 코드 보기](./Programmers/0/main.cpp) |
