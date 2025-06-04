@@ -1,7 +1,7 @@
 // 프로그래머스 [42748] - [K번째수]
 // https://school.programmers.co.kr/learn/courses/30/lessons/42748
 // 2차원 배열의 특정 부분을 잘라 해당 정수 배열의 특정 원소를 찾아내는 문제
-// 시간복잡도: O( )
+// 시간복잡도: O(k log k)
 
 #include <iostream>
 #include <string>

@@ -12,7 +12,7 @@
 using namespace std;
 
 // 핵심 아이디어
-// - 모든 전화번호를 해시맵에 저장한 후
+// - 모든 전화번호를 해시맵에 저장
 // - 각 번호의 접두어(앞부분 부분 문자열)가 해시맵에 존재하면 false
 bool solution(vector<string> phone_book) {
     bool answer = true;
