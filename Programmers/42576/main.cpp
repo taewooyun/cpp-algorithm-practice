@@ -10,6 +10,10 @@
 
 using namespace std;
 
+// 핵심 아이디어
+// - 참가자 명단을 해시로 저장
+// - 완주자를 해시에서 차감
+// - 명단에 포함된 횟수가 함께 저장되면서 중복 상황에도 만족
 string solution(vector<string> participant, vector<string> completion) {
     string answer = "";
     
