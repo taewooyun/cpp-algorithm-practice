@@ -1,2 +1,8 @@
-#빌드 실행 파일 이름
+##macos
+#실행 파일
 main
+
+##window
+#빌드 설정 및 실행 파일
+.vscode/tasks.json
+*.exe
