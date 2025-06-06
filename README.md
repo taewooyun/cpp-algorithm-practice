@@ -34,7 +34,7 @@ Baekjoon/
 | 42748 | 프로그래머스 | K번째수 | [🔗 코드 보기](./Programmers/42748/main.cpp) |
 | 12906 | 프로그래머스 | 같은 숫자는 싫어 | [🔗 코드 보기](./Programmers/12906/main.cpp) |
 | 42746 | 프로그래머스 | 가장 큰 수 | [🔗 코드 보기](./Programmers/42746/main.cpp) |
-| 42587 | 프로세스 | 제목 | [🔗 코드 보기](./Programmers/42587/main.cpp) |
+| 42587 | 프로그래머스 | 프로세스 | [🔗 코드 보기](./Programmers/42587/main.cpp) |
 
 
 
