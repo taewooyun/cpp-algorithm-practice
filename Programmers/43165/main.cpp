@@ -1,7 +1,7 @@
 // 프로그래머스 [43165] - [타겟 넘버]
 // https://school.programmers.co.kr/learn/courses/30/lessons/43165
 // 주어진 정수들을 더하거나 빼서 타겟 넘버를 만들 수 있는 경우의 수를 구하는 문제
-// 시간복잡도: O( )
+// 시간복잡도: O(2ⁿ)
 
 #include <iostream>
 #include <vector>
