@@ -6,3 +6,4 @@ main
 #빌드 설정 및 실행 파일
 .vscode/tasks.json
 *.exe
+/.vscode
