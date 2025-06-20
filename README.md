@@ -41,6 +41,7 @@ Baekjoon/
 | 43162 | 프로그래머스 | 네트워크 | [🔗 코드 보기](./Programmers/43162/main.cpp) |
 | 43163 | 프로그래머스 | 단어 변환 | [🔗 코드 보기](./Programmers/43163/main.cpp) |
 | 43164 | 프로그래머스 | 여행경로 | [🔗 코드 보기](./Programmers/43164/main.cpp) |
+| 49189 | 프로그래머스 | 가장 먼 노드 | [🔗 코드 보기](./Programmers/49189/main.cpp) |
 
 
 <!--
