@@ -1,6 +1,7 @@
 ##macos
 #실행 파일
 main
+.DS_Store
 
 ##window
 #빌드 설정 및 실행 파일
