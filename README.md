@@ -112,6 +112,7 @@ algorithm/
 | 12939 | 프로그래머스 | 최댓값과 최솟값 | [🔗 코드 보기](./Programmers/12939/main.cpp) |
 | 12909 | 프로그래머스 | 올바른 괄호 | [🔗 코드 보기](./Programmers/12909/main.cpp) |
 | 12941 | 프로그래머스 | 최솟값 만들기 | [🔗 코드 보기](./Programmers/12941/main.cpp) |
+| 12951 | 프로그래머스 | JadenCase 문자열 만들기 | [🔗 코드 보기](./Programmers/12951/main.cpp) |
 
 
 <!--
